@@ -127,20 +127,20 @@
 
 }
 
-/* @media screen and (max-width: 414px) {
+@media screen and (max-width: 414px) {
     #profile{
-        margin-bottom: -15rem;
+        margin-bottom: 0rem;
     }
-} */
+}
 
-/* @media screen and (max-width:375px){
+@media screen and (max-width:375px){
     #contact, footer{
         height: 40vh;
     }
 
     #profile{
         height: 83vh;
-        margin-bottom: -3rem;
+        margin-bottom: 0rem;
     }
 
     article{
@@ -196,4 +196,4 @@
         text-align: justify;
     }
 
-} */
+}
