@@ -129,7 +129,7 @@
 
 @media screen and (max-width: 414px) {
     #profile{
-        margin-bottom: 0rem;
+        margin-bottom: -5rem;
     }
 }
 
@@ -140,7 +140,7 @@
 
     #profile{
         height: 83vh;
-        margin-bottom: 0rem;
+        margin-bottom: -3rem;
     }
 
     article{
