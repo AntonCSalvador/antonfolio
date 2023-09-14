@@ -67,10 +67,8 @@
     }
 
     .section_pic-container{
-        /* auto was good before */
-        width: 26vw; 
+        width: auto;
         height: 46vw;
-        display: flex;
         justify-content: center;
     }
 }
@@ -100,7 +98,6 @@
         margin-bottom: 5rem;
     }
 
-    
 }
 
 @media screen and (max-width:600px){
