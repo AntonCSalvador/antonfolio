@@ -68,7 +68,7 @@
 
     .section_pic-container{
         width: auto;
-        height: 46vw;
+        height: auto;
         justify-content: center;
     }
 }
@@ -76,7 +76,7 @@
 @media screen and (max-width:1024px){
     .section_pic-container{
         width: auto;
-        height: 46vw;
+        height: auto;
         justify-content: center;
     }
 }
