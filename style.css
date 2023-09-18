@@ -9,6 +9,95 @@ body{
     font-family: 'Poppins', sans-serif;
 }
 
+/* Night mode theme */
+
+/* General styles */
+body.night-mode {
+    background-color: #2c2c2c;
+    color: white;
+}
+
+body.night-mode p {
+    color: rgb(200, 200, 200);
+}
+
+/* Nav styles */
+body.night-mode a,
+body.night-mode .hamburger-icon span {
+    color: white;
+}
+
+body.night-mode a:hover {
+    color: grey;
+    text-decoration-color: rgb(120, 120, 120);
+}
+
+body.night-mode .menu-links {
+    background-color: #2c2c2c;
+}
+
+body.night-mode .btn {
+    border-color: white;
+}
+
+body.night-mode .btn-color-1, 
+body.night-mode .btn-color-2 {
+    border-color: white;
+    color: white;
+}
+
+body.night-mode .btn-color-1:hover {
+    background-color: #2c2c2c;
+}
+
+body.night-mode .btn-color-2:hover {
+    border-color: #2c2c2c;
+    background-color: #2c2c2c;
+    color: white;
+}
+
+/* Sections */
+body.night-mode section {
+    background-color: #2c2c2c;
+    color: white;
+}
+
+body.night-mode .details-container {
+    background-color: #2c2c2c;
+    border-color: #5e5e5e;
+}
+
+body.night-mode .experience-sub-title {
+    color: rgb(200, 200, 200);
+}
+
+body.night-mode .color-container {
+    background: #2c2c2c;
+    border-color: #5e5e5e;
+}
+
+body.night-mode .project-title, 
+body.night-mode .project-btn {
+    color: white;
+}
+
+body.night-mode #contact {
+    background-color: #2c2c2c;
+}
+
+body.night-mode .contact-info-upper-container {
+    background-color: #2c2c2c;
+    border-color: #5e5e5e;
+}
+
+/* Footer */
+body.night-mode footer {
+    background-color: #292929;
+    color: white;
+}
+
+
+
 html{
     scroll-behavior: smooth;
 }
