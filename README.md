@@ -1,6 +1,5 @@
 # antonfolio
-
-# Anton Salvador's Personal Website
+# AKA Anton's super poggers basic poggers simple poggers website
 
 Welcome to my personal website! This website showcases my portfolio, provides information about me, and offers insights into my projects and experiences.
 
